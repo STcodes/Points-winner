@@ -6,3 +6,6 @@ Rules:
 1: The first who got 100 points will win.
 2: When you roll 1, your current score will reset and it will be the next player turn.
 3: When you click Hold, then it will update your score and it will be the next player turn. (why not risking ;p)
+
+![pig-game-flowchart](https://user-images.githubusercontent.com/29493048/129705625-d90a44ae-bf68-4ebb-87c7-40c0d12bad79.png)
+
