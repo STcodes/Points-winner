@@ -1,7 +1,7 @@
 # Points-winner
 Multiplayer game
 
-This game prefers to play with two players
+This game prefers to play with two players <br>
 Rules:
 1: The first who got 100 points will win.
 2: When you roll 1, your current score will reset and it will be the next player turn.
